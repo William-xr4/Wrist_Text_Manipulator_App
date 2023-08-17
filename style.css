@@ -1,0 +1,33 @@
+.heading{
+    margin:0px;
+    width:100%;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    font-size: 25px;
+}
+.not{
+    font-size: 20px;
+    color:rgb(255, 0, 255);
+    font-weight: bold;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.copyrightfooter{
+    bottom:0px;
+    width:100%;
+    font-size:20px;
+    background-color:rgb(255, 50, 0) !important;
+    color:rgb(100, 0, 100) !important;
+    line-height:3;
+    text-align:center;
+    position:fixed;
+}
+canvas{
+    border:5px solid rgb(0, 0, 0);
+    border-radius: 30px;
+}
+h3{
+    background-color: red;
+}
